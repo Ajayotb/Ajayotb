@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
 
-<!--
-**Ajayotb/Ajayotb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering | IT Infrastructure | AI-Powered Applications
 
-Here are some ideas to get you started:
+I'm a technology professional with a background in Computer Science and practical experience in IT support, networking, and system administration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building reliable software solutions, developing backend services, integrating AI into applications, and exploring cloud technologies.
+
+## 🚀 Featured Project
+
+### AI-Powered Wearable Health Monitoring System
+
+A project focused on developing a smart health monitoring system that combines physiological data, machine learning, backend services, and a web-based dashboard.
+
+**Project components:**
+- **Backend:** Python, FastAPI, SQLAlchemy
+- **Frontend:** React, JavaScript
+- **Machine Learning:** Health risk assessment and predictive modelling
+- **Database:** SQLite and PostgreSQL support
+
+🔗 [Backend Repository](https://github.com/Ajayotb/health-backend)  
+🔗 [Dashboard Repository](https://github.com/Ajayotb/health-dashboard)
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, JavaScript, SQL, HTML, CSS
+
+**Software Development:** React, FastAPI, REST APIs, database integration
+
+**IT & Networking:** Network administration, system administration, IT support, troubleshooting
+
+**Cloud & Infrastructure:** Microsoft Azure fundamentals, networking concepts, server administration
+
+**Tools:** Git, GitHub, Cisco Packet Tracer, Microsoft Excel
+
+## 💼 Professional Interests
+
+- Software Engineering and Backend Development
+- Cloud Administration and Infrastructure
+- Network and System Administration
+- AI Integration and Intelligent Applications
+
+## 📫 Connect With Me
+
+- **GitHub:** [@Ajayotb](https://github.com/Ajayotb)
+
+I'm always interested in learning, collaborating, and building practical technology solutions.
+
